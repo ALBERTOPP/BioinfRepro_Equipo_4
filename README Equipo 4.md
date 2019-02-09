@@ -6,7 +6,7 @@ Antonio
 Alberto Esteban Pérez Pedraza
 
 #_parallelnewhybrid_
-#####Brendan F. Wringe; Ryan R. E. Stanley; Nicholas W. Jeffery; Eric C. Anderson; Ian R. Bradbury.
+#####Brendan F. Wringe; Ryan R. E. Stanley; Nicholas W. Jeffery; Eric C. Anderson; Ian R. Bradbury., 2016
 Este programa es útil para la deteccion de hibridos utilizando patrones de herencia genetica en los diferentes locus, logrando detectar hibridos de diferentes clases (F1, F2,etc). Se realizan multiples ejecuciones para cada conjunto de datos, para generar una estimacion presisa de las clases hibridas.
 
 Esta diseñado para aprovechar las capacidades de  las computadoras modernas, ejecuta de manera eficiente y automática los calculos en paralelo en nucleos separados. Esto permite una considerable reducción en el tiempo de análisis. El usuario debe especificar la longitud de la cadena MCMC y la longitud de ejecución (burnin y sweeps).
