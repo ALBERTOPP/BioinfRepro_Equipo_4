@@ -1,7 +1,7 @@
 # README
 
 # Equipo 4 "Los Ya nos definimos"
-#Clase Bioinformática
+# Clase Bioinformática
 
 ### Alberto Esteban Pérez Pedraza
 
