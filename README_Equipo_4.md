@@ -14,7 +14,7 @@ Esta diseñado para aprovechar las capacidades de  las computadoras modernas, ej
 Está disponible gratuitamente en el sitio de software github y consta de un archivo readme y tres funciones específicas del sistema operativo.
 #####https://github.com/bwringe/parallelnewhybrid 
 
-#_ABLE_
+# _ABLE_
 ##### Beeravolu et al., 2016
 
 Este programa nos permite hacer estimaciones por cohalecencia mediante la inferencia conjunta de historias de población arbitrarias y la tasa de recombinación de todo el genoma. Utiliza secuencias genómicas completas o ensamblajes fragmentados (UCE, RADSeq y exomas específicos). Hace uso de la distribución de patrones de SFS (bSFS) de bloque que retienen información sobre la variación en genealogías.
