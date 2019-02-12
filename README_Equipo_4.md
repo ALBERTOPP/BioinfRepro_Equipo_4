@@ -1,6 +1,6 @@
 #README
 
-#Equipo 4
+#Equipo 4 "Los Ya nos definimos"
 
 ###Alberto Esteban Pérez Pedraza
 
